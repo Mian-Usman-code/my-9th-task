@@ -1,0 +1,21 @@
+html{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+table,tbody,td,th,tr{
+    border: solid black 2px;
+    border-collapse: collapse;
+}
+.row-alt{
+    background-color:antiquewhite;
+}
+tr:hover{
+    background-color: red;
+    color: white;
+}
+img{
+    width: 30px;
+    height: 20px;
+}
